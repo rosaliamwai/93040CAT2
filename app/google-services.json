@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "282502801173",
+    "firebase_url": "https://cat2-93040.firebaseio.com",
+    "project_id": "cat2-93040",
+    "storage_bucket": "cat2-93040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282502801173:android:2351c40bb772500f",
+        "android_client_info": {
+          "package_name": "com.example.rosaliamwai.a93040cat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282502801173-upl69ihcb0t6lrcq6bq1abasrdp789bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLb-i8xghlDYN7GERJMQcENXKjjAQvqE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

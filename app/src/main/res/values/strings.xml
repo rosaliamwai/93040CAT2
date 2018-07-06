@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Fade2Fit</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="firstname">Enter Firstname</string>
+    <string name="lastname">Enter Lastname</string>
+    <string name="email">Enter Email Address</string>
+    <string name="submit">Submit</string>
+    <string name="input_error_firstname">Firstname required</string>
+    <string name="input_error_email">email required</string>
+    <string name="input_error_password">password required</string>
+    <string name="input_error_lastname">Lastname required</string>
+    <string name="input_error_password_length">Password should be at least 6 characters long</string>
+    <string name="registration_success">Registered Successfully</string>
+    <string name="input_error_email_invalid">enter a valid email</string>
+    <string name="logout">Logout</string>
+    <string name="registration">User Registration</string>
+    <string name="userlogin">User Login</string>
+    <string name="ourtrainers">Our Gym Instructors</string>
+    <string name="input_error_age">Age required</string>
+    <string name="input_error_gender">Age required</string>
+    <string name="input_error_weight">Weight required</string>
+    <string name="input_error_targetweight">Targetweight required</string>
+
+</resources>

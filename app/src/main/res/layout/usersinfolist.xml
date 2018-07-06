@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/ic_person_black_24dp"
+        android:layout_marginLeft="140dp"/>
+
+    <TextView
+        android:id="@+id/txtage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="25dp"
+        android:text="Age"
+        android:textSize="28dp"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/txtgender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gender"
+        android:textSize="28dp"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/txtcweight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Current Weight"
+        android:textSize="28dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginBottom="2dp"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/txtdweight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Target Weight"
+        android:textSize="28dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginBottom="25dp"
+        android:textAlignment="center"/>
+
+</LinearLayout>
